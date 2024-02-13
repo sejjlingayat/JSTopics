@@ -1,2 +1,2 @@
 # JSTopics
-Trying to cover JS topics
+Trying to cover JS topics.
